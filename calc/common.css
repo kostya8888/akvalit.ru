@@ -1892,7 +1892,7 @@ input[type=number] {
 		min-width: 82px;
 	}
 	.buy-products__buttons-wrap{
-		display: none;
+		display: block;
 	}
 
 }
